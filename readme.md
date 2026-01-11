@@ -64,7 +64,7 @@ This project consists of a modular pipeline for training a facial emotion recogn
 - Model weights and large intermediate files are intentionally excluded from version control.
 - Demographic labels are inferred proxies and used solely for fairness analysis, not ground truth.
 
-📜 License & Usage Modification: Not permitted.
+##📜 License & Usage Modification: Not permitted.
 
 Redistribution: Only allowed with proper attribution and without any changes to the original files.
 
